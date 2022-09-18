@@ -5,53 +5,7 @@ I'm currently studying web development at [Codespace Academy](https://codespacea
 
 ## Contact me
 ---
-<style>
-.container {
-  position: relative;
-  width: 50%;
-}
-
-.img {
-  opacity: 1;
-  display: block;
-  width: 100%;
-  height: auto;
-  transition: .5s ease;
-  backface-visibility: hidden;
-}
-
-.middle {
-  transition: .5s ease;
-  opacity: 0;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%)
-}
-
-.container:hover .image {
-  opacity: 0.3;
-}
-
-.container:hover .middle {
-  opacity: 1;
-}
-
-.text {
-  background-color: #57f287;
-  color: white;
-  font-size: 20px;
-  padding: 16px 32px;
-}
-</style>
-<div class="container">
-    <img class="img" src="https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDC2RH70K22MN-08afd558-a61c-4a63-9171-d3f199738e9f" alt="Discord icon" style="width:100%">
-    <div class="middle">
-        <div class="text"> EliasRMena#6874 </div>
-    </div>
-</div>
-
+**Discord:** EliasRMena#6874
 
 <!--
 **EliasRMena/EliasRMena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
