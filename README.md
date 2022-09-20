@@ -1,9 +1,17 @@
-# Hello there! 👋🧔🏼
+# <center><img src="img/welcome.gif" width="80%"></center>
 ## My name is Elías
 I'm currently studying web development at [Codespace Academy](https://codespaceacademy.com/). Since I was a little kid I have always liked 🖥️ computer science 🖥️ and I was investigating projects like ftp servers, dhcp, dns, multimedia among others... When I finish these studies I would like to be able to continue training in some way in web development either in the frontend or in the backend as well as in other programming languages that are not focused on web pages, as I have a lot of ideas in my head and I would like to be able to carry out some of them and see what comes out.
 
 ## Contact me
 **Discord:** EliasRMena#6874
+
+---
+
+<center><img src="img/under-construction.gif" width="20%"></center>
+
+---
+<center><img src="img/netscape.gif" width="5.3%" display="inline"> <img src="img/explorer.gif" width="15%" display="inline"></center>
+
 
 <!--
 **EliasRMena/EliasRMena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
