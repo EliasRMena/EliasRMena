@@ -18,6 +18,7 @@
 <h3 align="center">📖📖Books📖📖</h3>
 <p align="center">
 <!-- GOODREADS-LIST:START -->
+- [Dune (Dune, #1)](https://www.goodreads.com/review/show/5002778337?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 </p>
 ---
