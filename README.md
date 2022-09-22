@@ -18,7 +18,7 @@
 <h4 align="center">Currently reading</h4>
 <p align="left">
 <!-- GOODREADS-LIST:START -->
-- 📕[Dune (Dune, #1)] by [Frank Herbert] - ⭐️[5]
+- 📕[Dune (Dune, #1)] by [Frank Herbert] 📅[] - ⭐️[5]<br>
 <!-- GOODREADS-LIST:END -->
 </p>
 <h4 align="center">Read</h4>
@@ -37,6 +37,7 @@
 </p>
 
 </p>
+
 ---
 
 <p align="center">
