@@ -14,7 +14,12 @@
 <p align="center">
     <a href="https://open.spotify.com/user/eliasrmena"><img src="https://eliasrmena.vercel.app/api/spotify"></a>
 </p>
-
+<br>
+<h3 align="center">📖📖Books📖📖</h3>
+<p align="center">
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
+</p>
 ---
 
 <p align="center">
