@@ -14,14 +14,15 @@
 <p align="center">
     <a href="https://open.spotify.com/user/eliasrmena"><img src="https://eliasrmena.vercel.app/api/spotify"></a>
 </p>
-<br>
 <h3 align="center">📚📚Books📚📚</h3>
 <h4 align="center">Currently reading</h4>
-<p align="center">
+<p align="left">
 <!-- GOODREADS-LIST:START -->
-- 📕[Dune (Dune, #1)] by [Frank Herbert] 📅[] - ⭐️[5]
+- 📕[Dune (Dune, #1)] by [Frank Herbert] 📅[] - ⭐️[5]<br>
 <!-- GOODREADS-LIST:END -->
+</p>
 <h4 align="center">Read</h4>
+<p align="left">
 <!-- GOODREADS-LIST-READ:START -->
 - 📕[I, Robot (Robot, #0.1)] by [Isaac Asimov] 📅([]) - ⭐️[5]<br>
 - 📕[The Caves of Steel (Robot, #1)] by [Isaac Asimov] 📅([]) - ⭐️[5]<br>
@@ -33,6 +34,7 @@
 - 📕[Seed of Destruction (Hellboy, #1)] by [Mike Mignola] 📅([]) - ⭐️[5]<br>
 - 📕[Watchmen #1: At Midnight, All The Agents....] by [Alan Moore] 📅([]) - ⭐️[4]<br>
 <!-- GOODREADS-LIST-READ:END -->
+</p>
 
 </p>
 ---
