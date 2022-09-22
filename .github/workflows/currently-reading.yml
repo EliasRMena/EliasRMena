@@ -15,6 +15,5 @@ jobs:
         with:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
           goodreads_user_id: "156374977"
-          shelf: "read"
-          comment_tag_name: "GOODREADS-LIST-READ"
-          template: "- 📕[$title] by [$author] 📅([$published]) - ⭐️[$my_rating]"
+          shelf: "currently-reading"
+          template: "- 📕[$title] by [$author] 📅[$published] - ⭐️[$my_rating]"
