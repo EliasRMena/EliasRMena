@@ -23,15 +23,15 @@
 <!-- GOODREADS-LIST:END -->
 <h4 align="center">Read</h4>
 <!-- GOODREADS-LIST-READ:START -->
-- 📕[I, Robot (Robot, #0.1)] by [Isaac Asimov] 📅([]) - ⭐️[5]
-- 📕[The Caves of Steel (Robot, #1)] by [Isaac Asimov] 📅([]) - ⭐️[5]
-- 📕[Harry Potter and the Philosopher's Stone (Harry Potter, #1)] by [J.K. Rowling] 📅([]) - ⭐️[5]
-- 📕[The Hobbit] by [J.R.R. Tolkien] 📅([]) - ⭐️[3]
-- 📕[Ready Player One (Ready Player One, #1)] by [Ernest Cline] 📅([]) - ⭐️[5]
-- 📕[V for Vendetta] by [Alan Moore] 📅([]) - ⭐️[5]
-- 📕[Watchmen] by [Alan Moore] 📅([]) - ⭐️[4]
-- 📕[Seed of Destruction (Hellboy, #1)] by [Mike Mignola] 📅([]) - ⭐️[5]
-- 📕[Watchmen #1: At Midnight, All The Agents....] by [Alan Moore] 📅([]) - ⭐️[4]
+- 📕[I, Robot (Robot, #0.1)] by [Isaac Asimov] 📅([]) - ⭐️[5]<br>
+- 📕[The Caves of Steel (Robot, #1)] by [Isaac Asimov] 📅([]) - ⭐️[5]<br>
+- 📕[Harry Potter and the Philosopher's Stone (Harry Potter, #1)] by [J.K. Rowling] 📅([]) - ⭐️[5]<br>
+- 📕[The Hobbit] by [J.R.R. Tolkien] 📅([]) - ⭐️[3]<br>
+- 📕[Ready Player One (Ready Player One, #1)] by [Ernest Cline] 📅([]) - ⭐️[5]<br>
+- 📕[V for Vendetta] by [Alan Moore] 📅([]) - ⭐️[5]<br>
+- 📕[Watchmen] by [Alan Moore] 📅([]) - ⭐️[4]<br>
+- 📕[Seed of Destruction (Hellboy, #1)] by [Mike Mignola] 📅([]) - ⭐️[5]<br>
+- 📕[Watchmen #1: At Midnight, All The Agents....] by [Alan Moore] 📅([]) - ⭐️[4]<br>
 <!-- GOODREADS-LIST-READ:END -->
 
 </p>
