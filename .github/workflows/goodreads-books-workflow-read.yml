@@ -17,3 +17,4 @@ jobs:
           goodreads_user_id: "156374977"
           shelf: "read"
           comment_tag_name: "GOODREADS-LIST-READ"
+          template: "- 📕[$title] by [$author] 📅([$published]) - ⭐️[$my_rating]"

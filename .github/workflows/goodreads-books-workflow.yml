@@ -16,3 +16,4 @@ jobs:
           # Replace this with your goodreads user id (go to "My Books" on goodreads to see it in the URL)
           goodreads_user_id: "156374977"
           shelf: "currently-reading"
+          template: "- 📕[$title] by [$author] 📅([$published]) - ⭐️[$my_rating]"

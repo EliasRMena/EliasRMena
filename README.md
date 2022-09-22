@@ -15,11 +15,13 @@
     <a href="https://open.spotify.com/user/eliasrmena"><img src="https://eliasrmena.vercel.app/api/spotify"></a>
 </p>
 <br>
-<h3 align="center">📖📖Books📖📖</h3>
+<h3 align="center">📚📚Books📚📚</h3>
+<h4 align="center">Currently reading</h4>
 <p align="center">
 <!-- GOODREADS-LIST:START -->
 - [Dune (Dune, #1)](https://www.goodreads.com/review/show/5002778337?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
+<h4 align="center">Read</h4>
 <!-- GOODREADS-LIST-READ:START -->
 - [I, Robot (Robot, #0.1)](https://www.goodreads.com/review/show/5002778685?utm_medium=api&utm_source=rss) by Isaac Asimov (⭐️4.22)
 - [The Caves of Steel (Robot, #1)](https://www.goodreads.com/review/show/5002777944?utm_medium=api&utm_source=rss) by Isaac Asimov (⭐️4.18)
