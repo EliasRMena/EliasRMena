@@ -11,7 +11,11 @@
 
 ---
 
-<img src="img/music.gif" width="20%"/> <img src="https://eliasrmena.vercel.app/api/spotify)](https://open.spotify.com/user/eliasrmena">
+<p align="center">
+<img src="img/music.gif" width="20%"/>
+</p>
+![Spotify](https://eliasrmena.vercel.app/api/spotify)](https://open.spotify.com/user/eliasrmena)
+
 
 ---
 
