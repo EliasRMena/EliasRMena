@@ -19,7 +19,7 @@
 <h4 align="center">Currently reading</h4>
 <p align="center">
 <!-- GOODREADS-LIST:START -->
-- [Dune (Dune, #1)](https://www.goodreads.com/review/show/5002778337?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.3)
+- 📕[Dune (Dune, #1)] by [Frank Herbert] 📅[] - ⭐️[5]
 <!-- GOODREADS-LIST:END -->
 <h4 align="center">Read</h4>
 <!-- GOODREADS-LIST-READ:START -->
