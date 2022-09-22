@@ -10,7 +10,7 @@
 **Discord:** EliasRMena#6874
 
 ---
-<br>
+<h3 align="center">🎵🎵Music🎵🎵</h3>
 <p align="center">
     <a href="https://open.spotify.com/user/eliasrmena"><img src="https://eliasrmena.vercel.app/api/spotify"></a>
 </p>
