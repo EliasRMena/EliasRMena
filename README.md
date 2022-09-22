@@ -21,6 +21,15 @@
 - [Dune (Dune, #1)](https://www.goodreads.com/review/show/5002778337?utm_medium=api&utm_source=rss) by Frank Herbert (⭐️4.3)
 <!-- GOODREADS-LIST:END -->
 <!-- GOODREADS-LIST-READ:START -->
+- [I, Robot (Robot, #0.1)](https://www.goodreads.com/review/show/5002778685?utm_medium=api&utm_source=rss) by Isaac Asimov (⭐️4.22)
+- [The Caves of Steel (Robot, #1)](https://www.goodreads.com/review/show/5002777944?utm_medium=api&utm_source=rss) by Isaac Asimov (⭐️4.18)
+- [Harry Potter and the Philosopher's Stone (Harry Potter, #1)](https://www.goodreads.com/review/show/5002777400?utm_medium=api&utm_source=rss) by J.K. Rowling (⭐️4.49)
+- [The Hobbit](https://www.goodreads.com/review/show/5002777239?utm_medium=api&utm_source=rss) by J.R.R. Tolkien (⭐️4.28)
+- [Ready Player One (Ready Player One, #1)](https://www.goodreads.com/review/show/5002777022?utm_medium=api&utm_source=rss) by Ernest Cline (⭐️4.22)
+- [V for Vendetta](https://www.goodreads.com/review/show/5002776017?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.25)
+- [Watchmen](https://www.goodreads.com/review/show/5002775989?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.37)
+- [Seed of Destruction (Hellboy, #1)](https://www.goodreads.com/review/show/5002775783?utm_medium=api&utm_source=rss) by Mike Mignola (⭐️4.14)
+- [Watchmen #1: At Midnight, All The Agents....](https://www.goodreads.com/review/show/5002775515?utm_medium=api&utm_source=rss) by Alan Moore (⭐️4.31)
 <!-- GOODREADS-LIST-READ:END -->
 
 </p>
