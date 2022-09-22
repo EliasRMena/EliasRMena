@@ -10,8 +10,10 @@
 **Discord:** EliasRMena#6874
 
 ---
-
-[![Spotify](https://eliasrmena.vercel.app/api/spotify)](https://open.spotify.com/user/eliasrmena)
+<br>
+<p align="center">
+    <a href="https://open.spotify.com/user/eliasrmena"><img src="https://eliasrmena.vercel.app/api/spotify"></a>
+</p>
 
 ---
 
