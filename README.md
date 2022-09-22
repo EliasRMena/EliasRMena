@@ -18,6 +18,8 @@
 ---
 <p align="center">
     <img src="img/netscape.gif" width="5.3%" display="inline"> <img src="img/explorer.gif" width="15%" display="inline">
+    <br>
+    <img src="https://profile-counter.glitch.me/EliasRMena/count.svg">
 </p>
 
 
