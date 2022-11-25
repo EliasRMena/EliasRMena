@@ -31,7 +31,7 @@
 - 📕[Ready Player One (Ready Player One, #1)] by [Ernest Cline] - ⭐️[5]<br>
 - 📕[V for Vendetta] by [Alan Moore] - ⭐️[5]<br>
 - 📕[Watchmen] by [Alan Moore] - ⭐️[4]<br>
-- 📕[Seed of Destruction (Hellboy, #1)] by [Mike Mignola] - ⭐️[5]<br>
+- 📕[Hellboy, Vol. 1: Seed of Destruction] by [Mike Mignola] - ⭐️[5]<br>
 - 📕[Watchmen #1: At Midnight, All The Agents....] by [Alan Moore] - ⭐️[4]<br>
 <!-- GOODREADS-LIST-READ:END -->
 </p>
