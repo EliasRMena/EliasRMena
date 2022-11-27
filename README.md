@@ -32,7 +32,7 @@
 - 📕[V for Vendetta] by [Alan Moore] - ⭐️[5]<br>
 - 📕[Watchmen] by [Alan Moore] - ⭐️[4]<br>
 - 📕[Hellboy, Vol. 1: Seed of Destruction] by [Mike Mignola] - ⭐️[5]<br>
-- 📕[Watchmen #1: At Midnight, All The Agents....] by [Alan Moore] - ⭐️[4]<br>
+- 📕[Watchmen #1 of 12: At Midnight, All The Agents.... (Watchmen, #1)] by [Alan Moore] - ⭐️[4]<br>
 <!-- GOODREADS-LIST-READ:END -->
 </p>
 
