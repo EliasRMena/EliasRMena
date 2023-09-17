@@ -14,30 +14,6 @@
 <p align="center">
     <a href="https://open.spotify.com/user/eliasrmena"><img src="https://eliasrmena.vercel.app/api/spotify"></a>
 </p>
-<h3 align="center">📚📚Books📚📚</h3>
-<h4 align="center">Currently reading</h4>
-<p align="left">
-<!-- GOODREADS-LIST:START -->
-- 📕[Dune (Dune, #1)] by [Frank Herbert] - ⭐️[5]
-<!-- GOODREADS-LIST:END -->
-</p>
-<h4 align="center">Read</h4>
-<p align="left">
-<!-- GOODREADS-LIST-READ:START -->
-- 📕[I, Robot (Robot, #0.1)] by [Isaac Asimov] - ⭐️[5]<br>
-- 📕[The Caves of Steel (Robot, #1)] by [Isaac Asimov] - ⭐️[5]<br>
-- 📕[Harry Potter and the Philosopher’s Stone (Harry Potter, #1)] by [J.K. Rowling] - ⭐️[5]<br>
-- 📕[The Hobbit (The Lord of the Rings, #0)] by [J.R.R. Tolkien] - ⭐️[3]<br>
-- 📕[Ready Player One (Ready Player One, #1)] by [Ernest Cline] - ⭐️[5]<br>
-- 📕[V for Vendetta] by [Alan Moore] - ⭐️[5]<br>
-- 📕[Watchmen (Watchmen, #1-12)] by [Alan Moore] - ⭐️[4]<br>
-- 📕[Hellboy, Vol. 1: Seed of Destruction] by [Mike Mignola] - ⭐️[5]<br>
-- 📕[Watchmen #1 of 12: At Midnight, All The Agents....] by [Alan Moore] - ⭐️[4]<br>
-<!-- GOODREADS-LIST-READ:END -->
-</p>
-
-</p>
-
 ---
 
 <p align="center">
