@@ -14,7 +14,6 @@
 <p align="center">
     <a href="https://open.spotify.com/user/eliasrmena"><img src="https://eliasrmena.vercel.app/api/spotify"></a>
 </p>
----
 
 <p align="center">
     <img src="img/under-construction.gif" width="20%">
