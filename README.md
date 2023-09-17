@@ -4,7 +4,7 @@
 
 ---
 
-<img src="img/Banner Github.png">
+<img src="img/Banner-github.png">
 
 ## Contact me
 **Discord:** EliasRMena#6874
